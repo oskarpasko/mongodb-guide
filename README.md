@@ -7,6 +7,11 @@ Repository with practical guide from Max Swarzmuller at udemy at MongoDB.
   mongod --dbpath <path>/data --logpath <path>/logs/mongo.log
 ```
 
+### Reopen db server
+```
+mongod --dbpath <path>/data --logpath <path>/logs/mongo.log --logRotate reopen --logappend
+```
+
 ### Starting Mongo shell
 Old Shell
 ```
@@ -15,4 +20,12 @@ Old Shell
 Newer Shell
 ```
   mongosh
+```
+
+## Rotating log file
+```
+use admin
+```
+```
+db.adminCommand({ logRotate: "server" })
 ```
