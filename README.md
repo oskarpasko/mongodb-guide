@@ -6,6 +6,10 @@ Repository with practical guide from Max Swarzmuller at udemy at MongoDB.
 ```
   mongod --dbpath <path>/data --logpath <path>/logs/mongo.log
 ```
+Or
+```
+mongod --dbpath $HOME/data
+```
 
 ### Reopen db server
 ```
