@@ -1,0 +1,2 @@
+_id,name,age,orders[0].title,orders[0].price,orders[0].quantity
+64a1bee03a6cff906ef18f4e,Oskar,23,A Book,12.99,2

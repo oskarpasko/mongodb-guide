@@ -1,0 +1,2 @@
+_id,name,isStartup,employees,funding,details.ceo,tags[0].title,tags[1].title,foundingDate,insertedAt
+64a19cb43a6cff906ef18f42,Oskar Industries,true,33,12345678901234567000,Oskar Pasko,super,programming,2023-07-02T15:50:12.391Z,7251249171951255553

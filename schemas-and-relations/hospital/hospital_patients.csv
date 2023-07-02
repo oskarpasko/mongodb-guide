@@ -1,0 +1,2 @@
+_id,name,age,diseaseSummary.diseases[0],diseaseSummary.diseases[1]
+64a1a2793a6cff906ef18f46,Max,29,cold,broken leg
