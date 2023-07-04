@@ -1,0 +1,9 @@
+_id,name,age,hobbies[0],hobbies[1]
+64a437c82b88cfe922c129f2,Oskar,23,sports,cooking
+64a437ef2b88cfe922c129f3,Max,30,food,cooking
+64a438252b88cfe922c129f4,Anna,40,food,cooking
+64a438252b88cfe922c129f5,Peter,33,food,
+64a4456c2b88cfe922c129f6,Jan,22,,
+64a445cd2b88cfe922c129f7,Seba,26,,
+64a445dd2b88cfe922c129f8,Seba,26,,
+64a445e52b88cfe922c129f9,Seba,26,,
